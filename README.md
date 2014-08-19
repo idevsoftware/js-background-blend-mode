@@ -1,6 +1,6 @@
 # js-background-blend-mode
 
-This is a JavaScript based workaround for browsers which don’t support the CSS background-blend-mode property. 
+This is a JavaScript based workaround for browsers which don’t support the CSS [`background-blend-mode`(http://css-tricks.com/basics-css-blend-modes/)] property. 
 
 
 ## Usage
