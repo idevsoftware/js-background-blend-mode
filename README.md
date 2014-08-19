@@ -5,7 +5,7 @@ This is a JavaScript based workaround for browsers which don’t support the CSS
 
 ## Usage
 
-Add the `blend-mode.js` file to your HTML file, declare your CSS background properties as you normally would using a `blend-multiply` class name. 
+Add the `blend-mode.js` file to your HTML, declare your CSS background properties as you normally would using a `blend-multiply` class name. 
 
 
 ## What's missing?
